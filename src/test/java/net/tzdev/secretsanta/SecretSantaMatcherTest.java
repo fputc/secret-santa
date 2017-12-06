@@ -10,7 +10,7 @@ import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import net.tzdev.secretsanta.config.Configurator;
+import net.tzdev.secretsanta.utils.Configurator;
 
 /**
  * Unit test for SecretSantaMatcher.

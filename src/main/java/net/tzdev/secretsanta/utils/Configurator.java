@@ -1,4 +1,4 @@
-package net.tzdev.secretsanta.config;
+package net.tzdev.secretsanta.utils;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
